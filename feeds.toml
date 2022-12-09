@@ -1,0 +1,7 @@
+[bestcherish]
+title = "灰常记忆"
+url = "https://bestcherish.com/archive"
+entrySelector = "div.sya_postcontent"
+titleSelector = "a.sya_postlink"
+linkSelector = "a.sya_postlink"
+timeout = 3600
