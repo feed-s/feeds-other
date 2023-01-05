@@ -7,7 +7,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # Run every day at 5:30 and 17:30:
-    - cron:  '43 3 * * 1,4'
+    - cron:  '43 3 * * *'
   workflow_dispatch:
 
 env:
@@ -23,7 +23,7 @@ jobs:
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
     # - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
-    - run: npx feed-me-up-scotty
+    - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
