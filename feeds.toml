@@ -4,4 +4,4 @@ url = "https://bestcherish.com/archive"
 entrySelector = "aside.widget > ul > li"
 titleSelector = "> a"
 linkSelector = "> a"
-timeout = 360
+timeout = 600
