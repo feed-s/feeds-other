@@ -1,6 +1,6 @@
 [bestcherish]
 title = "灰常记忆"
-url = "https://bestcherish.com/archive"
+url = "https://bestcherish.com"
 entrySelector = "h1.entry-title"
 titleSelector = "> a"
 linkSelector = "> a"
