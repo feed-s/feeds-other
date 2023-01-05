@@ -1,7 +1,7 @@
 [bestcherish]
 title = "灰常记忆"
 url = "https://bestcherish.com/archive"
-entrySelector = "aside.widget > ul > li"
+entrySelector = "h1.entry-title"
 titleSelector = "> a"
 linkSelector = "> a"
 timeout = 600
