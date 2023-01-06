@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://feed-s.github.io/feeds-other/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-01-06T04:23:47.170Z</updated>
+    <id>https://blog.kisnows.com/</id>
+    <title>抹桥的博客</title>
+    <updated>2023-01-06T04:23:47.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://blog.kisnows.com/images/favicon-32x32-next.png</icon>
     <entry>
-        <title type="html"><![CDATA[2021 年终总结 (抹桥的博客)]]></title>
+        <title type="html"><![CDATA[2021 年终总结]]></title>
         <id>https://blog.kisnows.com/2021/12/31/2021-year-end-summary/</id>
         <link href="https://blog.kisnows.com/2021/12/31/2021-year-end-summary/"/>
         <updated>2023-01-06T04:23:46.443Z</updated>
@@ -60,7 +61,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿里工作三年总结 (抹桥的博客)]]></title>
+        <title type="html"><![CDATA[阿里工作三年总结]]></title>
         <id>https://blog.kisnows.com/2021/06/04/three-years-summary-for-alibaba-work-experience/</id>
         <link href="https://blog.kisnows.com/2021/06/04/three-years-summary-for-alibaba-work-experience/"/>
         <updated>2023-01-06T04:23:46.445Z</updated>
@@ -115,7 +116,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[店铺体验优化总结 (抹桥的博客)]]></title>
+        <title type="html"><![CDATA[店铺体验优化总结]]></title>
         <id>https://blog.kisnows.com/2021/04/28/shop-performance-improve/</id>
         <link href="https://blog.kisnows.com/2021/04/28/shop-performance-improve/"/>
         <updated>2023-01-06T04:23:46.448Z</updated>
@@ -170,7 +171,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五分钟接入流式渲染 (抹桥的博客)]]></title>
+        <title type="html"><![CDATA[五分钟接入流式渲染]]></title>
         <id>https://blog.kisnows.com/2021/03/23/egg-spart-a-way-to-stream-render-you-page/</id>
         <link href="https://blog.kisnows.com/2021/03/23/egg-spart-a-way-to-stream-render-you-page/"/>
         <updated>2023-01-06T04:23:46.448Z</updated>
@@ -225,7 +226,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows10 中 thunderbolt3 接口的故障排查经历 (抹桥的博客)]]></title>
+        <title type="html"><![CDATA[Windows10 中 thunderbolt3 接口的故障排查经历]]></title>
         <id>https://blog.kisnows.com/2021/03/04/a-thunderbolt3-question-on-windows/</id>
         <link href="https://blog.kisnows.com/2021/03/04/a-thunderbolt3-question-on-windows/"/>
         <updated>2023-01-06T04:23:46.449Z</updated>
