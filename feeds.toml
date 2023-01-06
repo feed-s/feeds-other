@@ -6,15 +6,6 @@ titleSelector = "> a"
 linkSelector = "> a"
 timeout = 600
 
-[xifudangcheno]
-title = "媳妇当车模"
-url = "https://club.autohome.com.cn/jingxuan/104/1/"
-entrySelector = "div.pic_txt > p"
-titleSelector = "> a"
-linkSelector = ">a"
-timeout = 600
-
-
 [kisnows]
 title = "抹桥的博客"
 url = "https://blog.kisnows.com/"
