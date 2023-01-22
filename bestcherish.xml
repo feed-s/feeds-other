@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-01-21T03:48:27.416Z</updated>
+    <updated>2023-01-22T03:47:41.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/wp-content/uploads/2016/02/cropped-zhanbiao-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[兔年大吉]]></title>
+        <id>https://bestcherish.com/tu-nian-da-ji.html</id>
+        <link href="https://bestcherish.com/tu-nian-da-ji.html"/>
+        <updated>2023-01-22T03:47:37.616Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/tu-nian-da-ji.html" rel="bookmark">兔年大吉</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抓住2022的尾巴]]></title>
         <id>https://bestcherish.com/zhua-zhu-2022-de-wei-ba.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/hu-nian-da-ji.html"/>
         <updated>2023-01-18T03:57:50.303Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/hu-nian-da-ji.html" rel="bookmark">虎年大吉</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抓住2021的尾巴]]></title>
-        <id>https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html</id>
-        <link href="https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html"/>
-        <updated>2023-01-18T03:57:50.305Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html" rel="bookmark">抓住2021的尾巴</a>]]></content>
     </entry>
 </feed>
