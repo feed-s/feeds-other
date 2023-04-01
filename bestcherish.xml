@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-03-31T03:48:48.083Z</updated>
+    <updated>2023-04-01T03:47:57.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/wp-content/uploads/2016/02/cropped-zhanbiao-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[安心记录吧]]></title>
+        <id>https://bestcherish.com/an-xin-ji-lu-ba.html</id>
+        <link href="https://bestcherish.com/an-xin-ji-lu-ba.html"/>
+        <updated>2023-04-01T03:47:52.844Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/an-xin-ji-lu-ba.html" rel="bookmark">安心记录吧</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兔年大吉]]></title>
         <id>https://bestcherish.com/tu-nian-da-ji.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html"/>
         <updated>2023-01-18T03:57:50.302Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html" rel="bookmark">年过完了开始搬砖</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虎年大吉]]></title>
-        <id>https://bestcherish.com/hu-nian-da-ji.html</id>
-        <link href="https://bestcherish.com/hu-nian-da-ji.html"/>
-        <updated>2023-01-18T03:57:50.303Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/hu-nian-da-ji.html" rel="bookmark">虎年大吉</a>]]></content>
     </entry>
 </feed>
