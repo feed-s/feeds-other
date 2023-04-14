@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds-other/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T03:47:53.014Z</updated>
+    <updated>2023-04-14T03:48:25.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[差点折腾倒闭 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html</id>
+        <link href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html"/>
+        <updated>2023-04-14T03:48:21.240Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html" rel="bookmark">差点折腾倒闭</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安心记录吧 (灰常记忆)]]></title>
         <id>https://bestcherish.com/an-xin-ji-lu-ba.html</id>
@@ -87,13 +94,6 @@
         <link href="https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html"/>
         <updated>2023-01-18T03:57:50.299Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/chun-tian-yi-qing-yi-qi-lai-le.html" rel="bookmark">春天疫情一起来了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年过完了开始搬砖 (灰常记忆)]]></title>
-        <id>https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html</id>
-        <link href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html"/>
-        <updated>2023-01-18T03:57:50.302Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/nian-guo-wan-le-kai-shi-ban-zhuan.html" rel="bookmark">年过完了开始搬砖</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 年终总结 (抹桥的博客)]]></title>
