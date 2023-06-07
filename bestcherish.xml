@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-06-06T03:48:00.687Z</updated>
+    <updated>2023-06-07T03:48:05.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/wp-content/uploads/2016/02/cropped-zhanbiao-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[妞宝生病记]]></title>
+        <id>https://bestcherish.com/niu-bao-sheng-bing-ji.html</id>
+        <link href="https://bestcherish.com/niu-bao-sheng-bing-ji.html"/>
+        <updated>2023-06-07T03:48:01.366Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/niu-bao-sheng-bing-ji.html" rel="bookmark">妞宝生病记</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烦躁就码码字]]></title>
         <id>https://bestcherish.com/fan-zao-jiu-ma-ma-zi.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/yan-re-de-liu-yue.html"/>
         <updated>2023-01-18T03:57:50.288Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/yan-re-de-liu-yue.html" rel="bookmark">炎热的六月</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五一不快乐]]></title>
-        <id>https://bestcherish.com/wu-yi-bu-kuai-le.html</id>
-        <link href="https://bestcherish.com/wu-yi-bu-kuai-le.html"/>
-        <updated>2023-01-18T03:57:50.288Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/wu-yi-bu-kuai-le.html" rel="bookmark">五一不快乐</a>]]></content>
     </entry>
 </feed>
