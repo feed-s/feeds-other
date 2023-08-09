@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-08-08T03:48:25.889Z</updated>
+    <updated>2023-08-09T03:48:12.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/wp-content/uploads/2016/02/cropped-zhanbiao-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[立秋小记]]></title>
+        <id>https://bestcherish.com/li-qiu-xiao-ji.html</id>
+        <link href="https://bestcherish.com/li-qiu-xiao-ji.html"/>
+        <updated>2023-08-09T03:48:07.382Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/li-qiu-xiao-ji.html" rel="bookmark">立秋小记</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妞宝生病记]]></title>
         <id>https://bestcherish.com/niu-bao-sheng-bing-ji.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/zhuan-yi-yu-ming.html"/>
         <updated>2023-01-18T03:57:50.287Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/zhuan-yi-yu-ming.html" rel="bookmark">转移域名</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炎热的六月]]></title>
-        <id>https://bestcherish.com/yan-re-de-liu-yue.html</id>
-        <link href="https://bestcherish.com/yan-re-de-liu-yue.html"/>
-        <updated>2023-01-18T03:57:50.288Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/yan-re-de-liu-yue.html" rel="bookmark">炎热的六月</a>]]></content>
     </entry>
 </feed>
