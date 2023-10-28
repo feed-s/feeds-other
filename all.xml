@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds-other/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-27T03:48:11.384Z</updated>
+    <updated>2023-10-28T03:48:21.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[妞宝两岁了 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/9539.html</id>
+        <link href="https://bestcherish.com/9539.html"/>
+        <updated>2023-10-28T03:48:16.200Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9539.html" rel="bookmark">妞宝两岁了</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立秋小记 (灰常记忆)]]></title>
         <id>https://bestcherish.com/li-qiu-xiao-ji.html</id>
@@ -89,13 +96,6 @@
         <content type="html"><![CDATA[<a href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html" rel="bookmark">开不开心都要水</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[转移域名 (灰常记忆)]]></title>
-        <id>https://bestcherish.com/zhuan-yi-yu-ming.html</id>
-        <link href="https://bestcherish.com/zhuan-yi-yu-ming.html"/>
-        <updated>2023-01-18T03:57:50.287Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/zhuan-yi-yu-ming.html" rel="bookmark">转移域名</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 年终总结 (抹桥的博客)]]></title>
         <id>https://blog.kisnows.com/2023/01/01/2022-year-end-summary/</id>
         <link href="https://blog.kisnows.com/2023/01/01/2022-year-end-summary/"/>
@@ -132,7 +132,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -187,7 +187,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -242,7 +242,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -297,7 +297,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -352,7 +352,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -407,7 +407,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -462,7 +462,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -517,7 +517,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -572,7 +572,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">
@@ -627,7 +627,7 @@
 <i class="fa fa-eye"></i>
 </span>
 <span class="post-meta-item-text">阅读次数：</span>
-<span class="leancloud-visitors-count"></span>
+<span class="leancloud-visitors-count">0</span>
 </span>
 <span class="post-meta-item" title="本文字数">
 <span class="post-meta-item-icon">

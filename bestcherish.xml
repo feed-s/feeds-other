@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-10-27T03:48:11.378Z</updated>
+    <updated>2023-10-28T03:48:21.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://bestcherish.com/wp-content/uploads/2016/02/cropped-zhanbiao-32x32.png</icon>
+    <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[妞宝两岁了]]></title>
+        <id>https://bestcherish.com/9539.html</id>
+        <link href="https://bestcherish.com/9539.html"/>
+        <updated>2023-10-28T03:48:16.200Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9539.html" rel="bookmark">妞宝两岁了</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立秋小记]]></title>
         <id>https://bestcherish.com/li-qiu-xiao-ji.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html"/>
         <updated>2023-01-18T03:57:50.287Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/kai-bu-kai-xin-dou-yao-shui.html" rel="bookmark">开不开心都要水</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转移域名]]></title>
-        <id>https://bestcherish.com/zhuan-yi-yu-ming.html</id>
-        <link href="https://bestcherish.com/zhuan-yi-yu-ming.html"/>
-        <updated>2023-01-18T03:57:50.287Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/zhuan-yi-yu-ming.html" rel="bookmark">转移域名</a>]]></content>
     </entry>
 </feed>
