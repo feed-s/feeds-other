@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-11-11T03:47:36.011Z</updated>
+    <updated>2023-11-12T03:48:22.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[一夜入冬]]></title>
+        <id>https://bestcherish.com/yi-ye-ru-dong.html</id>
+        <link href="https://bestcherish.com/yi-ye-ru-dong.html"/>
+        <updated>2023-11-12T03:48:17.045Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-ye-ru-dong.html" rel="bookmark">一夜入冬</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[折腾RSS]]></title>
         <id>https://bestcherish.com/zhe-teng-rss.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/chu-chu-chu-cao.html"/>
         <updated>2023-01-18T03:57:50.285Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/chu-chu-chu-cao.html" rel="bookmark">除除除草</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷暖自知]]></title>
-        <id>https://bestcherish.com/leng-nuan-zi-zhi.html</id>
-        <link href="https://bestcherish.com/leng-nuan-zi-zhi.html"/>
-        <updated>2023-01-18T03:57:50.287Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/leng-nuan-zi-zhi.html" rel="bookmark">冷暖自知</a>]]></content>
     </entry>
 </feed>
