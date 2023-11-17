@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-11-16T03:47:46.609Z</updated>
+    <updated>2023-11-17T03:47:49.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://bestcherish.com/favicon-32x32.png</icon>
+    <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[一夜入冬]]></title>
         <id>https://bestcherish.com/yi-ye-ru-dong.html</id>
