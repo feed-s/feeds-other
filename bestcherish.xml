@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-11-20T03:47:55.431Z</updated>
+    <updated>2023-11-21T03:47:39.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[最近折腾的东西]]></title>
+        <id>https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html</id>
+        <link href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html"/>
+        <updated>2023-11-21T03:47:34.738Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html" rel="bookmark">最近折腾的东西</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一夜入冬]]></title>
         <id>https://bestcherish.com/yi-ye-ru-dong.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html"/>
         <updated>2023-01-18T03:57:50.285Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html" rel="bookmark">疫情反反复复</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除除除草]]></title>
-        <id>https://bestcherish.com/chu-chu-chu-cao.html</id>
-        <link href="https://bestcherish.com/chu-chu-chu-cao.html"/>
-        <updated>2023-01-18T03:57:50.285Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/chu-chu-chu-cao.html" rel="bookmark">除除除草</a>]]></content>
     </entry>
 </feed>
