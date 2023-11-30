@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2023-11-29T03:47:52.915Z</updated>
+    <updated>2023-11-30T03:47:37.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[电台情缘]]></title>
+        <id>https://bestcherish.com/dian-tai-qing-yuan.html</id>
+        <link href="https://bestcherish.com/dian-tai-qing-yuan.html"/>
+        <updated>2023-11-30T03:47:32.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/dian-tai-qing-yuan.html" rel="bookmark">电台情缘</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近折腾的东西]]></title>
         <id>https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/zhua-zhu-2022-de-wei-ba.html"/>
         <updated>2023-11-29T03:47:48.966Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/zhua-zhu-2022-de-wei-ba.html" rel="bookmark">抓住2022的尾巴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情反反复复]]></title>
-        <id>https://bestcherish.com/yi-qing-fan-fan-fu-fu.html</id>
-        <link href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html"/>
-        <updated>2023-11-29T03:47:48.967Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-qing-fan-fan-fu-fu.html" rel="bookmark">疫情反反复复</a>]]></content>
     </entry>
 </feed>
