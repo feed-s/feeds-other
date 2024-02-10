@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2024-02-09T03:47:27.890Z</updated>
+    <updated>2024-02-10T03:47:59.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[龙年大吉]]></title>
+        <id>https://bestcherish.com/long-nian-da-ji.html</id>
+        <link href="https://bestcherish.com/long-nian-da-ji.html"/>
+        <updated>2024-02-10T03:47:55.791Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/long-nian-da-ji.html" rel="bookmark">龙年大吉</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未命名]]></title>
         <id>https://bestcherish.com/wei-ming-ming.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/ge-zhong-luan-zhe-teng.html"/>
         <updated>2023-11-29T03:47:48.962Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/ge-zhong-luan-zhe-teng.html" rel="bookmark">各种乱折腾</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差点折腾倒闭]]></title>
-        <id>https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html</id>
-        <link href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html"/>
-        <updated>2023-11-29T03:47:48.962Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/cha-dian-zhe-teng-dao-bi.html" rel="bookmark">差点折腾倒闭</a>]]></content>
     </entry>
 </feed>
