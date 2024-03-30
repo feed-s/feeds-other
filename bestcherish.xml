@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2024-03-29T03:48:04.822Z</updated>
+    <updated>2024-03-30T03:47:57.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[迟来的记录]]></title>
+        <id>https://bestcherish.com/chi-lai-de-ji-lu.html</id>
+        <link href="https://bestcherish.com/chi-lai-de-ji-lu.html"/>
+        <updated>2024-03-30T03:47:53.996Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/chi-lai-de-ji-lu.html" rel="bookmark">迟来的记录</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龙年大吉]]></title>
         <id>https://bestcherish.com/long-nian-da-ji.html</id>
@@ -88,12 +95,5 @@
         <link href="https://bestcherish.com/fan-zao-jiu-ma-ma-zi.html"/>
         <updated>2023-11-29T03:47:48.958Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/fan-zao-jiu-ma-ma-zi.html" rel="bookmark">烦躁就码码字</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各种乱折腾]]></title>
-        <id>https://bestcherish.com/ge-zhong-luan-zhe-teng.html</id>
-        <link href="https://bestcherish.com/ge-zhong-luan-zhe-teng.html"/>
-        <updated>2023-11-29T03:47:48.962Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/ge-zhong-luan-zhe-teng.html" rel="bookmark">各种乱折腾</a>]]></content>
     </entry>
 </feed>
