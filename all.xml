@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds-other/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-05T03:48:00.185Z</updated>
+    <updated>2024-05-06T03:47:51.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[屋漏偏逢连夜雨 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html</id>
+        <link href="https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html"/>
+        <updated>2024-05-06T03:47:47.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/wu-lou-pian-feng-lian-ye-yu.html" rel="bookmark">屋漏偏逢连夜雨</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[换了大盘机 (灰常记忆)]]></title>
         <id>https://bestcherish.com/huan-le-da-pan-ji.html</id>
@@ -87,12 +94,5 @@
         <link href="https://bestcherish.com/niu-bao-liang-sui-le.html"/>
         <updated>2024-04-26T03:48:26.371Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/niu-bao-liang-sui-le.html" rel="bookmark">妞宝两岁了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立秋小记 (灰常记忆)]]></title>
-        <id>https://bestcherish.com/li-qiu-xiao-ji.html</id>
-        <link href="https://bestcherish.com/li-qiu-xiao-ji.html"/>
-        <updated>2024-04-26T03:48:26.372Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/li-qiu-xiao-ji.html" rel="bookmark">立秋小记</a>]]></content>
     </entry>
 </feed>
