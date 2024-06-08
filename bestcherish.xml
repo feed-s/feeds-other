@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2024-06-07T03:47:49.041Z</updated>
+    <updated>2024-06-08T03:47:25.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[花都开好了]]></title>
+        <id>https://bestcherish.com/hua-dou-kai-hao-le.html</id>
+        <link href="https://bestcherish.com/hua-dou-kai-hao-le.html"/>
+        <updated>2024-06-08T03:47:21.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/hua-dou-kai-hao-le.html" rel="bookmark">花都开好了</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近期调整计划]]></title>
         <id>https://bestcherish.com/jin-qi-tiao-zheng-ji-hua.html</id>
@@ -74,12 +81,5 @@
         <link href="https://bestcherish.com/dian-tai-qing-yuan.html"/>
         <updated>2024-04-26T03:48:26.364Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/dian-tai-qing-yuan.html" rel="bookmark">电台情缘</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近折腾的东西]]></title>
-        <id>https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html</id>
-        <link href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html"/>
-        <updated>2024-04-26T03:48:26.365Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/zui-jin-zhe-teng-de-dong-xi.html" rel="bookmark">最近折腾的东西</a>]]></content>
     </entry>
 </feed>
