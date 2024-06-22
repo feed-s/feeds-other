@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2024-06-21T03:47:28.293Z</updated>
+    <updated>2024-06-22T03:47:59.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[建站十三年]]></title>
+        <id>https://bestcherish.com/jian-zhan-shi-san-nian.html</id>
+        <link href="https://bestcherish.com/jian-zhan-shi-san-nian.html"/>
+        <updated>2024-06-22T03:47:55.950Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/jian-zhan-shi-san-nian.html" rel="bookmark">建站十三年</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[花都开好了]]></title>
         <id>https://bestcherish.com/hua-dou-kai-hao-le.html</id>
@@ -74,12 +81,5 @@
         <link href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html"/>
         <updated>2024-04-26T03:48:26.362Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" rel="bookmark">一些事一些人</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电台情缘]]></title>
-        <id>https://bestcherish.com/dian-tai-qing-yuan.html</id>
-        <link href="https://bestcherish.com/dian-tai-qing-yuan.html"/>
-        <updated>2024-04-26T03:48:26.364Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/dian-tai-qing-yuan.html" rel="bookmark">电台情缘</a>]]></content>
     </entry>
 </feed>
