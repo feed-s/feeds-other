@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds-other/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T03:47:36.699Z</updated>
+    <updated>2024-07-02T03:47:45.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[测试新的Linux发行版 (灰常记忆)]]></title>
+        <id>https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html</id>
+        <link href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html"/>
+        <updated>2024-07-02T03:47:40.299Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html" rel="bookmark">测试新的Linux发行版</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建站十三年 (灰常记忆)]]></title>
         <id>https://bestcherish.com/jian-zhan-shi-san-nian.html</id>
@@ -73,12 +80,5 @@
         <link href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html"/>
         <updated>2024-06-29T03:48:09.305Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/zhua-zhu-2023-de-wei-ba.html" rel="bookmark">抓住2023的尾巴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些事一些人 (灰常记忆)]]></title>
-        <id>https://bestcherish.com/yi-xie-shi-yi-xie-ren.html</id>
-        <link href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html"/>
-        <updated>2024-06-29T03:48:09.306Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-xie-shi-yi-xie-ren.html" rel="bookmark">一些事一些人</a>]]></content>
     </entry>
 </feed>
