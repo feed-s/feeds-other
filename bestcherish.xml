@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2024-12-13T03:55:21.895Z</updated>
+    <updated>2024-12-14T03:53:40.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <icon>https://bestcherish.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[又到续费时]]></title>
         <id>https://bestcherish.com/you-dao-xu-fei-shi.html</id>
