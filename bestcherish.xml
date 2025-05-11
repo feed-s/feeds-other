@@ -2,7 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2025-05-10T03:54:58.500Z</updated>
+    <updated>2025-05-11T03:59:57.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[五一不出游]]></title>
+        <id>https://bestcherish.com/wu-yi-bu-chu-you.html</id>
+        <link href="https://bestcherish.com/wu-yi-bu-chu-you.html"/>
+        <updated>2025-05-11T03:59:52.725Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/wu-yi-bu-chu-you.html" rel="bookmark">五一不出游</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闲忙之中]]></title>
+        <id>https://bestcherish.com/xian-mang-zhi-zhong.html</id>
+        <link href="https://bestcherish.com/xian-mang-zhi-zhong.html"/>
+        <updated>2025-05-11T03:59:52.726Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/xian-mang-zhi-zhong.html" rel="bookmark">闲忙之中</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毫无更新欲望]]></title>
+        <id>https://bestcherish.com/hao-wu-geng-xin-yu-wang.html</id>
+        <link href="https://bestcherish.com/hao-wu-geng-xin-yu-wang.html"/>
+        <updated>2025-05-11T03:59:52.727Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/hao-wu-geng-xin-yu-wang.html" rel="bookmark">毫无更新欲望</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蛇年大吉]]></title>
+        <id>https://bestcherish.com/she-nian-da-ji.html</id>
+        <link href="https://bestcherish.com/she-nian-da-ji.html"/>
+        <updated>2025-05-11T03:59:52.729Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/she-nian-da-ji.html" rel="bookmark">蛇年大吉</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抓住2024的尾巴]]></title>
+        <id>https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html</id>
+        <link href="https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html"/>
+        <updated>2025-05-11T03:59:52.731Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/zhua-zhu-2024-de-wei-ba.html" rel="bookmark">抓住2024的尾巴</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又到续费时]]></title>
+        <id>https://bestcherish.com/you-dao-xu-fei-shi.html</id>
+        <link href="https://bestcherish.com/you-dao-xu-fei-shi.html"/>
+        <updated>2025-05-11T03:59:52.732Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/you-dao-xu-fei-shi.html" rel="bookmark">又到续费时</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[妞宝三岁了]]></title>
+        <id>https://bestcherish.com/niu-bao-san-sui-le.html</id>
+        <link href="https://bestcherish.com/niu-bao-san-sui-le.html"/>
+        <updated>2025-05-11T03:59:52.734Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/niu-bao-san-sui-le.html" rel="bookmark">妞宝三岁了</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对现实的一点思考]]></title>
+        <id>https://bestcherish.com/dui-xian-shi-de-yi-dian-si-kao.html</id>
+        <link href="https://bestcherish.com/dui-xian-shi-de-yi-dian-si-kao.html"/>
+        <updated>2025-05-11T03:59:52.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/dui-xian-shi-de-yi-dian-si-kao.html" rel="bookmark">对现实的一点思考</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次失败的换机]]></title>
+        <id>https://bestcherish.com/yi-ci-shi-bai-de-huan-ji.html</id>
+        <link href="https://bestcherish.com/yi-ci-shi-bai-de-huan-ji.html"/>
+        <updated>2025-05-11T03:59:52.737Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/yi-ci-shi-bai-de-huan-ji.html" rel="bookmark">一次失败的换机</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始使用Debian]]></title>
+        <id>https://bestcherish.com/kai-shi-shi-yong-debian.html</id>
+        <link href="https://bestcherish.com/kai-shi-shi-yong-debian.html"/>
+        <updated>2025-05-11T03:59:52.739Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/kai-shi-shi-yong-debian.html" rel="bookmark">开始使用Debian</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试新的Linux发行版]]></title>
+        <id>https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html</id>
+        <link href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html"/>
+        <updated>2025-05-11T03:59:52.740Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/ce-shi-xin-de-linux-fa-xing-ban.html" rel="bookmark">测试新的Linux发行版</a>]]></content>
+    </entry>
 </feed>
