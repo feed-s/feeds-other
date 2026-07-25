@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2026-06-17T08:49:14.043Z</updated>
+    <updated>2026-07-25T06:04:57.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[建站十五年]]></title>
+        <id>https://bestcherish.com/9648.html</id>
+        <link href="https://bestcherish.com/9648.html"/>
+        <updated>2026-07-25T06:04:53.732Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9648.html" rel="bookmark">建站十五年</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[差点又买了一台机器]]></title>
         <id>https://bestcherish.com/9647.html</id>
@@ -67,12 +74,5 @@
         <link href="https://bestcherish.com/9635.html"/>
         <updated>2026-05-29T07:40:16.797Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/9635.html" rel="bookmark">2026消费降级</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抓住2025的尾巴]]></title>
-        <id>https://bestcherish.com/9634.html</id>
-        <link href="https://bestcherish.com/9634.html"/>
-        <updated>2026-05-29T07:40:16.798Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/9634.html" rel="bookmark">抓住2025的尾巴</a>]]></content>
     </entry>
 </feed>
