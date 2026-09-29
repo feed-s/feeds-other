@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2026-09-24T08:45:07.839Z</updated>
+    <updated>2026-09-29T10:07:39.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/image/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[中秋小更新]]></title>
+        <id>https://bestcherish.com/9650.html</id>
+        <link href="https://bestcherish.com/9650.html"/>
+        <updated>2026-09-29T10:07:37.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9650.html" rel="bookmark">中秋小更新</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[部署笔记应用]]></title>
         <id>https://bestcherish.com/9649.html</id>
@@ -67,12 +74,5 @@
         <link href="https://bestcherish.com/9637.html"/>
         <updated>2026-05-29T07:40:16.793Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/9637.html" rel="bookmark">又要下雪了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些碎碎碎念]]></title>
-        <id>https://bestcherish.com/9636.html</id>
-        <link href="https://bestcherish.com/9636.html"/>
-        <updated>2026-05-29T07:40:16.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/9636.html" rel="bookmark">一些碎碎碎念</a>]]></content>
     </entry>
 </feed>
