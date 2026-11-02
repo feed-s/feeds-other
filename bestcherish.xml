@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2026-11-01T10:49:02.770Z</updated>
+    <updated>2026-11-02T11:40:38.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[十月的更新]]></title>
+        <id>https://bestcherish.com/9654.html</id>
+        <link href="https://bestcherish.com/9654.html"/>
+        <updated>2026-11-02T11:40:35.048Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9654.html" rel="bookmark">十月的更新</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫名其妙的攻击]]></title>
         <id>https://bestcherish.com/9653.html</id>
@@ -67,12 +74,5 @@
         <link href="https://bestcherish.com/9642.html"/>
         <updated>2026-10-23T08:51:16.397Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/9642.html" rel="bookmark">年底了最后一次折腾</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闹心的vps]]></title>
-        <id>https://bestcherish.com/9641.html</id>
-        <link href="https://bestcherish.com/9641.html"/>
-        <updated>2026-10-23T08:51:16.398Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/9641.html" rel="bookmark">闹心的vps</a>]]></content>
     </entry>
 </feed>
