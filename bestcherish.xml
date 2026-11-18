@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bestcherish.com</id>
     <title>灰常记忆</title>
-    <updated>2026-11-17T12:26:25.790Z</updated>
+    <updated>2026-11-18T12:15:16.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://bestcherish.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[何以为父]]></title>
+        <id>https://bestcherish.com/9655.html</id>
+        <link href="https://bestcherish.com/9655.html"/>
+        <updated>2026-11-18T12:15:13.447Z</updated>
+        <content type="html"><![CDATA[<a href="https://bestcherish.com/9655.html" rel="bookmark">何以为父</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十月的更新]]></title>
         <id>https://bestcherish.com/9654.html</id>
@@ -67,12 +74,5 @@
         <link href="https://bestcherish.com/9643.html"/>
         <updated>2026-10-23T08:51:16.396Z</updated>
         <content type="html"><![CDATA[<a href="https://bestcherish.com/9643.html" rel="bookmark">正月初六</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年底了最后一次折腾]]></title>
-        <id>https://bestcherish.com/9642.html</id>
-        <link href="https://bestcherish.com/9642.html"/>
-        <updated>2026-10-23T08:51:16.397Z</updated>
-        <content type="html"><![CDATA[<a href="https://bestcherish.com/9642.html" rel="bookmark">年底了最后一次折腾</a>]]></content>
     </entry>
 </feed>
